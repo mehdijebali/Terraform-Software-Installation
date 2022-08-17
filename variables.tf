@@ -19,7 +19,7 @@ variable "PATH_TO_PUBLIC_KEY" {
 }
 
 variable "INSTANCE_USERNAME" {
-  default = "ubuntu"
+  default = "ec2-user"
 }
 
 variable "INSTANCE_TYPE" {
