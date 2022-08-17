@@ -5,3 +5,4 @@ levelup_key.pub
 .terraform.lock.hcl
 terraform.tfstate
 terraform.tfstate.backup
+nginx.png
