@@ -39,5 +39,5 @@ provisioner "remote-exec" {
 ```
 
 Once the deployment is completed, nginx is installed and we can see its html page:
-![](./nginx.png)
+![](../nginx.png)
 
