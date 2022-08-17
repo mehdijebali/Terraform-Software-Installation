@@ -7,7 +7,7 @@ variable "Security_Group"{
 }
 
 variable "AMI_ID" {
-  default = "	ami-043cd015712d3f90c"
+  default = "ami-090fa75af13c156b4"
 }
 
 variable "PATH_TO_PRIVATE_KEY" {
